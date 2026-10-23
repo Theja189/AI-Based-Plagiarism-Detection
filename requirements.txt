@@ -1,0 +1,9 @@
+streamlit
+scikit-learn
+pandas
+pypdf
+python-docx
+sentence-transformers
+joblib
+pytest
+reportlab
